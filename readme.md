@@ -1,6 +1,7 @@
 
 AliyunMns
 ======
+[![Latest Stable Version](https://poser.pugx.org/icemanpro/aliyun-mns-laravel/v/stable)](https://packagist.org/packages/icemanpro/aliyun-mns-laravel)[![License](https://poser.pugx.org/icemanpro/aliyun-mns-laravel/license)](https://packagist.org/packages/icemanpro/aliyun-mns-laravel)
 
 使用阿里云消息服务（MNS ）作为Laravel5队列驱动。
 
