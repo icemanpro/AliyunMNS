@@ -33,8 +33,8 @@
             "AliyunMNS\\":"src/Aliyun/"
         },
         "psr-4": {
-            "Latrell\\AliyunMns\\": "src/Latrell/AliyunMns/",
-        },
+            "Latrell\\AliyunMns\\": "src/Latrell/AliyunMns/"
+        }
     },
     "minimum-stability": "stable"
 }
