@@ -29,10 +29,12 @@
 
     },
     "autoload": {
-        "psr-0": {
-             "Latrell\\AliyunMns\\": "src/Latrell",
-            "AliyunMNS\\":"src/Aliyun"
-        }
+		 "psr-0": {
+            "AliyunMNS\\":"src/Aliyun/"
+        },
+        "psr-4": {
+            "Latrell\\AliyunMns\\": "src/Latrell/AliyunMns/",
+        },
     },
     "minimum-stability": "stable"
 }
