@@ -20,7 +20,7 @@ composer require icemanpro/aliyun-mns-laravel dev-master
 ```php
 	'providers' => [
 		// ...
-		icemanpro\AliyunMns\MnsServiceProvider::class,
+		Latrell\AliyunMns\MnsServiceProvider::class,
 	]
 ```
 
