@@ -30,7 +30,7 @@
     },
     "autoload": {
 		 "psr-0": {
-            "AliyunMNS\\":"src/AliyunMNS/"
+            "AliyunMNS\\":"src/"
         },
         "psr-4": {
             "Latrell\\AliyunMns\\": "src/Latrell/AliyunMns/"
