@@ -23,16 +23,11 @@
 
     "require": {
         "php": ">=5.5.9",
-        "illuminate/support": "5.1.*|5.2.*",
-        "guzzlehttp/guzzle":"~6.1.0",
-		"psr/http-message":"~1.0",
+        "illuminate/support": "5.1.*|5.2.*",        
 		"icemanpro/aliyun-sdk":"~0.1"
 
     },
     "autoload": {
-		 "psr-0": {
-            "AliyunMNS\\":"src/"
-        },
         "psr-4": {
             "Latrell\\AliyunMns\\": "src/Latrell/AliyunMns/"
         }
