@@ -24,7 +24,7 @@
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "5.1.*|5.2.*",        
-		"icemanpro/aliyun-sdk":"~0.1"
+		"icemanpro/aliyun-sdk":"~1.0"
 
     },
     "autoload": {
